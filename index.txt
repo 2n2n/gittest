@@ -5,3 +5,13 @@ local repository
 
 remote repository
 - if git push naa na sya sa remote repo
+
+Use git merge for merging another branch from your local repository.
+```
+git merge <local branch name>
+```
+
+Use git pull for merging from remote repository to you local repository branch.
+```
+git pull <url/alias> <branch name>
+```
