@@ -1,1 +1,7 @@
-hello
+local repository
+- master
+- naa lang sa imong computer
+
+
+remote repository
+- if git push naa na sya sa remote repo
