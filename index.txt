@@ -1,6 +1,5 @@
 local repository
-- master
-- naa lang sa imong computer
+- this is a new line.
 
 
 remote repository
